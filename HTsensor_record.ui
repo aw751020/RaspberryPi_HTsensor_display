@@ -123,9 +123,21 @@
      <rect>
       <x>400</x>
       <y>10</y>
-      <width>391</width>
-      <height>401</height>
+      <width>392</width>
+      <height>402</height>
      </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>392</width>
+      <height>402</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>392</width>
+      <height>402</height>
+     </size>
     </property>
     <attribute name="horizontalHeaderCascadingSectionResizes">
      <bool>true</bool>
