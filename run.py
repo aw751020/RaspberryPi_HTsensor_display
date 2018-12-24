@@ -20,7 +20,7 @@ def send_data():
         tem = data[1]
         dlg.HumidityValue.display(str(hum))
         dlg.TemperatureValue.display(str(tem))
-        nowTime = datetime.datetime.now().strftime("%m%d-%H:%M:%S")
+        nowTime = datetime.datetime.now().strftime("%H:%M:%S")
         min = int(datetime.datetime.now().minute)
         sec = int(datetime.datetime.now().second)
         if (min % 5 == 4 and sec >= 58) or (min %5 ==0 and sec in [0,1]):
