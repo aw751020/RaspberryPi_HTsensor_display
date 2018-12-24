@@ -22,7 +22,7 @@ ls
 sudo rm -rf ./Desktop/RaspberryPi_HTsensor_display/
 ls
 sudo mv RaspberryPi_HTsensor_display/ ./Desktop/
-cd Desktop/
+cd ~/Desktop
 cd RaspberryPi_HTsensor_display/
 ls
 python3 run.py
