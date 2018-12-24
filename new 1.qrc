@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>圖片1.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>圖片2.jpg</file>
+  </qresource>
+</RCC>
